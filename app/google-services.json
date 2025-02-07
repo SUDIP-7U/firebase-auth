@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741881857342",
+    "project_id": "fir-auth-c87e4",
+    "storage_bucket": "fir-auth-c87e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741881857342:android:23f46b95014e8cf369986f",
+        "android_client_info": {
+          "package_name": "com.example.cleanlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT97nQ1s6xc_BnkowHyDUcH57tbGDmSiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
